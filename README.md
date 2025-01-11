@@ -1,16 +1,12 @@
-## Hi there 👋
+## Hi there, I'm Abdallah! 👋 
 
-<!--
-**abdallah5446/abdallah5446** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some quick facts about myself, an entrepreneur in software design:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻📷✏️ I’m currently utilizing software and technology to improve SEO and the learning experience for my photography and tutoring businesses   
+- 🌱 I’m currently learning programming to create user-friendly and interactive software designs
+- 👯 I’m looking to collaborate on anything coding-related!
+- 🤔 If you know any fun coding challenges or hackathons, let me know!
+- 💬 Ask me about communication skills or self-improvement, let's talk!
+- 📫 How to reach me: by email (mabdallah1027@gmail.com) or just reach out on GitHub!
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Although the scope for AI/IT is currently stagnant, it will take a while before AI truly "takes over" jobs.
