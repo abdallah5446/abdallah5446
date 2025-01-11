@@ -10,3 +10,5 @@ Here are some quick facts about myself, an entrepreneur in software design:
 - 📫 How to reach me: by email (mabdallah1027@gmail.com) or just reach out on GitHub!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Although the scope for AI/IT is currently stagnant, it will take a while before AI truly "takes over" jobs.
+
+Check out some of my work in my profile!
