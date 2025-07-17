@@ -2,7 +2,7 @@
 
 Here are some quick facts about myself, an entrepreneur in software design:
 
-- 💻📷✏️ I’m currently utilizing software and technology to improve SEO and the learning experience for my photography and tutoring businesses   
+- 💻📷✏️ I use software and technology to improve SEO and the learning experience for my photography and tutoring businesses respectively  
 - 🌱 I’m currently learning programming to create user-friendly and interactive software designs
 - 👯 I’m looking to collaborate on anything coding-related!
 - 🤔 If you know any fun coding challenges or hackathons, let me know!
