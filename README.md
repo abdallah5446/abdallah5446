@@ -9,6 +9,6 @@ Here are some quick facts about myself, an entrepreneur in software design:
 - 💬 Ask me about communication skills or self-improvement, let's talk!
 - 📫 How to reach me: by email (mabdallah1027@gmail.com) or just reach out on GitHub!
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Although the scope for AI/IT is currently stagnant, it will take a while before AI truly "takes over" jobs.
+- ⚡ Fun fact: Although AI/ML is on the rise, it will be a while before AI truly "takes over" tech jobs.
 
 Check out some of my work on my portfolio!
